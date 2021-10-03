@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá, meu nome é Roger Bertoni, seja bem vindo(a) ao meu Github 👋
 
-<!--
-**RogerBertoni/RogerBertoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+Atualmente foco meus estudos e especialização em Javascript e seus frameworks.
+Gosto muito de estudar novas tecnologias e procuro sempre aperfeiçoar meus conhecimentos para aprimorar minha produtividade.
+
+Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/rogerbertoni/)
+
+
+
+### Tecnologias que conheço
+
+------
+![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/TECNOLOGIA-aws-orange?style=for-the-badge&logo=amazon)
+
+
+
+
+
+### Minhas estatísticas no Github
+
+------
+
+[![Roger Bertoni github stats](https://github-readme-stats.vercel.app/api?username=RogerBertoni&show_icons=true&theme=darcula&locale=pt-br)](https://github.com/RogerBertoni/github-readme-stats)
