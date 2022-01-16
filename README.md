@@ -15,13 +15,3 @@ Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/rogerb
 
 ------
 ![](https://img.shields.io/badge/Linguagem-Javascript-yellow?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/Linguagem-Typescript-blue?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/Backend-Nodejs-green?style=for-the-badge&logo=node.js) ![](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/TECNOLOGIA-aws-orange?style=for-the-badge&logo=amazon)
-
-
-
-
-
-### Minhas estatísticas no Github
-
-------
-
-[![Roger Bertoni github stats](https://github-readme-stats.vercel.app/api?username=RogerBertoni&show_icons=true&theme=darcula&locale=pt-br)](https://github.com/RogerBertoni/github-readme-stats)
